@@ -44,3 +44,5 @@ if st.button("开始回答"):
                 st.error(f"出错了：{e}")
 
 st.caption("网站开发人：HanGecifer")
+st.caption("1.0.01.HanGecifer")
+
