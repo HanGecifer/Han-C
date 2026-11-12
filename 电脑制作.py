@@ -6,7 +6,7 @@ from zhipuai import ZhipuAI
 API_KEY = st.secrets["ZHIPU_KEY"]
 
 #网络页标题与图标
-st.set_page_config(page_title="编程知识小助手")
+st.set_page_config(page_title="编程知识小助手",page_icon="C")
 #网页标题
 st.title("编程知识小助手 ")
 #免责声明
